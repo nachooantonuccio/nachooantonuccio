@@ -1,0 +1,2 @@
+- 👋 Hola, soy Ignacio Antonuccio
+- Software Developer and QA Analyst
